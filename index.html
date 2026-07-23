@@ -270,42 +270,43 @@
       <h2>Módulo de Transparência — Câmara Municipal</h2>
       <span class="tag">6 módulos com dados reais</span>
     </div>
-    <p style="font-size:13.5px;color:var(--ink-soft);margin:-10px 0 20px;max-width:640px;">
+    <p style="font-size:13.5px;color:var(--ink-soft);margin:-10px 0 6px;max-width:640px;">
       Dados abaixo vieram direto da API do sistema NúcleoGov/MegaSoft usado pela Câmara —
       confirmados por engenharia reversa, não são mais estimativa.
     </p>
-    <div class="grid">
-      <div class="card">
+    <p id="camara-atualizado" style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--leaf-deep);margin:0 0 20px;"></p>
+    <div class="grid" id="grid-camara">
+      <div class="card" data-modulo="folha_pagamento">
         <div class="lbl">Folha de Pagamento (06/2026)</div>
         <div class="val">12 registros</div>
         <div class="src">Total líquido: R$ 45.436,40</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="licitacoes">
         <div class="lbl">Licitações</div>
         <div class="val">22 registros</div>
         <div class="src">megasoft/licitacoes</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="contratos">
         <div class="lbl">Contratos</div>
         <div class="val">83 registros</div>
         <div class="src">megasoft/contratos</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="gestao_fiscal">
         <div class="lbl">Relatórios de Gestão Fiscal</div>
         <div class="val">103 registros</div>
         <div class="src">megasoft/rgf</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="balanco">
         <div class="lbl">Prestação de Contas (Balanço)</div>
         <div class="val">24 registros</div>
         <div class="src">megasoft/balanco</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="receitas">
         <div class="lbl">Receitas / Duodécimo</div>
         <div class="val">2 registros</div>
         <div class="src">megasoft/receitas</div>
@@ -331,42 +332,43 @@
       <h2>Módulo de Transparência — Prefeitura</h2>
       <span class="tag">5 módulos com dados reais</span>
     </div>
-    <p style="font-size:13.5px;color:var(--ink-soft);margin:-10px 0 20px;max-width:640px;">
+    <p style="font-size:13.5px;color:var(--ink-soft);margin:-10px 0 6px;max-width:640px;">
       Mesma família de sistema (NúcleoGov) da Câmara, mas com <b>3 formatos de endpoint diferentes</b>
       dentro do mesmo site — sinal de que foi construído em pedaços, por equipes ou épocas distintas.
     </p>
-    <div class="grid">
-      <div class="card">
+    <p id="prefeitura-atualizado" style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--leaf-deep);margin:0 0 20px;"></p>
+    <div class="grid" id="grid-prefeitura">
+      <div class="card" data-modulo="folha_pagamento">
         <div class="lbl">Folha de Pagamento</div>
         <div class="val">330 registros</div>
         <div class="src">megasoft/servidores</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="contratos">
         <div class="lbl">Contratos</div>
         <div class="val">255 registros</div>
         <div class="src">contratos_mg/listar</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="gestao_fiscal">
         <div class="lbl">Relatórios de Gestão Fiscal</div>
         <div class="val">122 registros</div>
         <div class="src">megasoft/rgf</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="balanco">
         <div class="lbl">Prestação de Contas (Balanço)</div>
         <div class="val">42 registros</div>
         <div class="src">megasoft/balanco</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="receitas">
         <div class="lbl">Receitas / Duodécimo</div>
         <div class="val">184 registros</div>
         <div class="src">megasoft/receitas</div>
         <div class="badge-live"><span class="dot"></span>API confirmada</div>
       </div>
-      <div class="card">
+      <div class="card" data-modulo="licitacoes">
         <div class="lbl">Licitações</div>
         <div class="val">— </div>
         <div class="src">declaracoes/listaDinamicaSg</div>
@@ -432,5 +434,70 @@
   </div>
 </footer>
 
+<script>
+(function () {
+  function contarRegistros(moduloDados) {
+    if (!moduloDados) return null;
+    if (typeof moduloDados.total === "number") return moduloDados.total;
+    if (Array.isArray(moduloDados.dados)) return moduloDados.dados.length;
+    if (Array.isArray(moduloDados.registros)) return moduloDados.registros.length;
+    if (Array.isArray(moduloDados)) return moduloDados.length;
+    return null;
+  }
+
+  function formatarData(isoString) {
+    try {
+      var d = new Date(isoString);
+      return d.toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" });
+    } catch (e) {
+      return isoString;
+    }
+  }
+
+  function aplicarDados(gridId, atualizadoId, json) {
+    var grid = document.getElementById(gridId);
+    if (!grid || !json) return;
+
+    var atualizadoEl = document.getElementById(atualizadoId);
+    if (atualizadoEl && json.atualizado_em) {
+      atualizadoEl.textContent = "Última atualização automática: " + formatarData(json.atualizado_em);
+    }
+
+    var cards = grid.querySelectorAll("[data-modulo]");
+    cards.forEach(function (card) {
+      var chave = card.getAttribute("data-modulo");
+      var moduloDados = json.dados ? json.dados[chave] : null;
+      var total = contarRegistros(moduloDados);
+      if (total === null) return; // mantém o valor estático como fallback
+
+      var valEl = card.querySelector(".val");
+      if (valEl) valEl.textContent = total + " registros";
+
+      // Se o módulo estava marcado como "pendente" e agora tem dado real,
+      // promove o selo para "confirmado".
+      var badgePending = card.querySelector(".badge-pending");
+      if (badgePending && total !== null) {
+        badgePending.className = "badge-live";
+        badgePending.innerHTML = '<span class="dot"></span>API confirmada';
+      }
+    });
+  }
+
+  // Os arquivos data/camara.json e data/prefeitura.json são gerados pelo
+  // GitHub Actions (.github/workflows/atualizar-dados.yml) e ficam no mesmo
+  // domínio do site publicado — por isso o fetch funciona sem problema de
+  // CORS. Se o fetch falhar (ex. antes da primeira execução do robô), os
+  // valores estáticos já escritos no HTML continuam visíveis como fallback.
+  fetch("data/camara.json")
+    .then(function (r) { return r.json(); })
+    .then(function (json) { aplicarDados("grid-camara", "camara-atualizado", json); })
+    .catch(function (e) { console.warn("Não foi possível carregar data/camara.json:", e); });
+
+  fetch("data/prefeitura.json")
+    .then(function (r) { return r.json(); })
+    .then(function (json) { aplicarDados("grid-prefeitura", "prefeitura-atualizado", json); })
+    .catch(function (e) { console.warn("Não foi possível carregar data/prefeitura.json:", e); });
+})();
+</script>
 </body>
 </html>
