@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-24T17:13:55.998911+00:00",
+  "atualizado_em": "2026-07-25T15:46:22.189693+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 330,
@@ -1420,8 +1420,8 @@
           "objeto": "CONTRATO Nº031/2026 DE LOCAÇÃO, MONTAGEM E DESMONTAGEM DE ESTRUTURA DE EVENTO, DESTINADO A REALIZAÇÃO DA FESTA GAMELEIRA SHOW, NO PERIODO DE 30/07/2026 À 02/08/2026.",
           "fiscal_contrato": "KARYNE FLEURI",
           "periodo": "18 dias",
-          "valor_executado": null,
-          "saldo": "158.470,00",
+          "valor_executado": "158.470,00",
+          "saldo": null,
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
