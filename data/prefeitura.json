@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-28T17:11:45.997901+00:00",
+  "atualizado_em": "2026-07-29T16:51:27.654042+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 330,
@@ -5182,12 +5182,12 @@
         "data_assinatura": "2026-04-08 13:12:40",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-07-07 13:03:12",
+        "atualizado_em": "2026-07-17 16:56:53",
         "data_inicio": "2026-02-21",
         "data_final": null,
         "total": "5",
-        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 07 de Julho de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 07 de Julho de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 17 de Julho de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 17 de Julho de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5201,12 +5201,12 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-07-07 14:03:20",
+        "atualizado_em": "2026-07-17 14:15:35",
         "data_inicio": "2025-06-01",
         "data_final": null,
         "total": "5",
-        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 07 de Julho de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 07 de Julho de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 17 de Julho de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 17 de Julho de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5220,7 +5220,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-07-07 14:03:20",
+        "atualizado_em": "2026-07-17 14:15:35",
         "data_inicio": "2025-01-01",
         "data_final": "2025-04-30",
         "total": "5",
@@ -5239,7 +5239,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-07-07 14:03:20",
+        "atualizado_em": "2026-07-17 14:15:35",
         "data_inicio": "2024-01-01",
         "data_final": "2024-12-31",
         "total": "5",
@@ -5258,7 +5258,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-07-07 14:03:20",
+        "atualizado_em": "2026-07-17 14:15:35",
         "data_inicio": "2022-01-01",
         "data_final": "2022-12-31",
         "total": "5",
