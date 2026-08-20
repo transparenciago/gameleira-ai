@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-19T14:05:23.296932+00:00",
+  "atualizado_em": "2026-08-20T14:08:33.836032+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 337,
@@ -458,7 +458,7 @@
           "mesAno": "07/2026",
           "matricula": 1476,
           "cpf": "xxx.495.541-xx",
-          "nome": "ANA LUCIA ALVES DOS SANTOS ABREU",
+          "nome": "ANA LUCIA ALVES DOS SANTOS",
           "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
           "dataAdmissao": "18/05/2023",
           "dataExoneracao": "28/07/2026",
@@ -486,7 +486,7 @@
           "mesAno": "07/2026",
           "matricula": 1751,
           "cpf": "xxx.495.541-xx",
-          "nome": "ANA LUCIA ALVES DOS SANTOS ABREU",
+          "nome": "ANA LUCIA ALVES DOS SANTOS",
           "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
           "dataAdmissao": "29/07/2026",
           "departamento": "GABINETE DO PREFEITO",
@@ -4316,17 +4316,17 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3530,
+            "codigoDaReceita": 3574,
             "ano": 2026,
             "mes": "08",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.02.000 - Receitas de Impostos e Transf.-Saúde",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
           "receita": "ITR - Municípios Conveniados - Dívida Ativa",
           "naturezaDaReceita": "1112.01.1.3 - ITR - Municípios Conveniados - Dívida Ativa",
           "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 138096.01,
+          "valorOrcado": 92064,
           "arrecadacao": 0,
           "valorAcumulado": 0,
           "ano": 2026
@@ -4350,36 +4350,19 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3574,
+            "codigoDaReceita": 3530,
             "ano": 2026,
             "mes": "08",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "fonteDaReceita": "1.02.000 - Receitas de Impostos e Transf.-Saúde",
           "receita": "ITR - Municípios Conveniados - Dívida Ativa",
           "naturezaDaReceita": "1112.01.1.3 - ITR - Municípios Conveniados - Dívida Ativa",
           "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 92064,
+          "valorOrcado": 138096.01,
           "arrecadacao": 0,
           "valorAcumulado": 0,
-          "ano": 2026
-        },
-        {
-          "chave": {
-            "codigoDaReceita": 3607,
-            "ano": 2026,
-            "mes": "08",
-            "codigoDoOrgao": 22
-          },
-          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
-          "receita": "IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Principal",
-          "naturezaDaReceita": "1112.50.0.1 - IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Principal",
-          "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 46089.21,
-          "arrecadacao": 0,
-          "valorAcumulado": 7557.25,
           "ano": 2026
         },
         {
@@ -4418,6 +4401,23 @@
         },
         {
           "chave": {
+            "codigoDaReceita": 3607,
+            "ano": 2026,
+            "mes": "08",
+            "codigoDoOrgao": 22
+          },
+          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "receita": "IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Principal",
+          "naturezaDaReceita": "1112.50.0.1 - IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Principal",
+          "origemDoRecurso": "Rendas Locais do Municipio",
+          "valorOrcado": 46089.21,
+          "arrecadacao": 0,
+          "valorAcumulado": 7557.25,
+          "ano": 2026
+        },
+        {
+          "chave": {
             "codigoDaReceita": 3513,
             "ano": 2026,
             "mes": "08",
@@ -4435,23 +4435,6 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3568,
-            "ano": 2026,
-            "mes": "08",
-            "codigoDoOrgao": 22
-          },
-          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.01.000 - Receitas de Impostos e Transf.-Educação",
-          "receita": "IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa",
-          "naturezaDaReceita": "1112.50.0.3 - IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa",
-          "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 161112,
-          "arrecadacao": 0,
-          "valorAcumulado": 0,
-          "ano": 2026
-        },
-        {
-          "chave": {
             "codigoDaReceita": 3544,
             "ano": 2026,
             "mes": "08",
@@ -4463,6 +4446,23 @@
           "naturezaDaReceita": "1112.50.0.3 - IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa",
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 151905.6,
+          "arrecadacao": 0,
+          "valorAcumulado": 0,
+          "ano": 2026
+        },
+        {
+          "chave": {
+            "codigoDaReceita": 3568,
+            "ano": 2026,
+            "mes": "08",
+            "codigoDoOrgao": 22
+          },
+          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.01.000 - Receitas de Impostos e Transf.-Educação",
+          "receita": "IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa",
+          "naturezaDaReceita": "1112.50.0.3 - IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa",
+          "origemDoRecurso": "Rendas Locais do Municipio",
+          "valorOrcado": 161112,
           "arrecadacao": 0,
           "valorAcumulado": 0,
           "ano": 2026
@@ -4554,23 +4554,6 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3645,
-            "ano": 2026,
-            "mes": "08",
-            "codigoDoOrgao": 22
-          },
-          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
-          "receita": "ITBI - Impostos sobre Transmissão \"Inter Vivos\" de Bens Imóveis e de Direitos Reais sobre Imóveis -",
-          "naturezaDaReceita": "1112.53.0.3 - ITBI - Impostos sobre Transmissão \"Inter Vivos\" de Bens Imóveis e de Direitos Reais sobre Imóveis -",
-          "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 128889.6,
-          "arrecadacao": 0,
-          "valorAcumulado": 0,
-          "ano": 2026
-        },
-        {
-          "chave": {
             "codigoDaReceita": 3609,
             "ano": 2026,
             "mes": "08",
@@ -4582,6 +4565,23 @@
           "naturezaDaReceita": "1112.53.0.3 - ITBI - Impostos sobre Transmissão \"Inter Vivos\" de Bens Imóveis e de Direitos Reais sobre Imóveis -",
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 138096,
+          "arrecadacao": 0,
+          "valorAcumulado": 0,
+          "ano": 2026
+        },
+        {
+          "chave": {
+            "codigoDaReceita": 3645,
+            "ano": 2026,
+            "mes": "08",
+            "codigoDoOrgao": 22
+          },
+          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "receita": "ITBI - Impostos sobre Transmissão \"Inter Vivos\" de Bens Imóveis e de Direitos Reais sobre Imóveis -",
+          "naturezaDaReceita": "1112.53.0.3 - ITBI - Impostos sobre Transmissão \"Inter Vivos\" de Bens Imóveis e de Direitos Reais sobre Imóveis -",
+          "origemDoRecurso": "Rendas Locais do Municipio",
+          "valorOrcado": 128889.6,
           "arrecadacao": 0,
           "valorAcumulado": 0,
           "ano": 2026
@@ -4707,6 +4707,23 @@
         },
         {
           "chave": {
+            "codigoDaReceita": 3514,
+            "ano": 2026,
+            "mes": "08",
+            "codigoDoOrgao": 22
+          },
+          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "receita": "ISSQN - Imposto sobre Serviços de Qualquer Natureza - Principal",
+          "naturezaDaReceita": "1114.51.1.1 - ISSQN - Imposto sobre Serviços de Qualquer Natureza - Principal",
+          "origemDoRecurso": "Rendas Locais do Municipio",
+          "valorOrcado": 142407.93,
+          "arrecadacao": 0,
+          "valorAcumulado": 138711.25,
+          "ano": 2026
+        },
+        {
+          "chave": {
             "codigoDaReceita": 3622,
             "ano": 2026,
             "mes": "08",
@@ -4741,23 +4758,6 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3514,
-            "ano": 2026,
-            "mes": "08",
-            "codigoDoOrgao": 22
-          },
-          "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
-          "receita": "ISSQN - Imposto sobre Serviços de Qualquer Natureza - Principal",
-          "naturezaDaReceita": "1114.51.1.1 - ISSQN - Imposto sobre Serviços de Qualquer Natureza - Principal",
-          "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 142407.93,
-          "arrecadacao": 0,
-          "valorAcumulado": 138711.25,
-          "ano": 2026
-        },
-        {
-          "chave": {
             "codigoDaReceita": 3662,
             "ano": 2026,
             "mes": "08",
@@ -4775,17 +4775,17 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3525,
+            "codigoDaReceita": 3638,
             "ano": 2026,
             "mes": "08",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "fonteDaReceita": "1.01.000 - Receitas de Impostos e Transf.-Educação",
           "receita": "ISSQN - Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa",
           "naturezaDaReceita": "1114.51.1.3 - ISSQN - Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa",
           "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 55238.4,
+          "valorOrcado": 23016,
           "arrecadacao": 0,
           "valorAcumulado": 0,
           "ano": 2026
@@ -4809,17 +4809,17 @@
         },
         {
           "chave": {
-            "codigoDaReceita": 3638,
+            "codigoDaReceita": 3525,
             "ano": 2026,
             "mes": "08",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
-          "fonteDaReceita": "1.01.000 - Receitas de Impostos e Transf.-Educação",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
           "receita": "ISSQN - Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa",
           "naturezaDaReceita": "1114.51.1.3 - ISSQN - Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa",
           "origemDoRecurso": "Rendas Locais do Municipio",
-          "valorOrcado": 23016,
+          "valorOrcado": 55238.4,
           "arrecadacao": 0,
           "valorAcumulado": 0,
           "ano": 2026
