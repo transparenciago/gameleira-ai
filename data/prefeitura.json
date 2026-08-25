@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-08-24T12:22:36.413132+00:00",
+  "atualizado_em": "2026-08-25T12:23:18.840879+00:00",
   "dados": {
     "folha_pagamento": {
-      "total": 337,
+      "total": 335,
       "registros": [
         {
           "mesAno": "07/2026",
@@ -4447,7 +4447,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 151905.6,
           "arrecadacao": 0,
-          "valorAcumulado": 0,
+          "valorAcumulado": 196.68,
           "ano": 2026
         },
         {
@@ -4464,7 +4464,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 161112,
           "arrecadacao": 0,
-          "valorAcumulado": 0,
+          "valorAcumulado": 327.8,
           "ano": 2026
         },
         {
@@ -4481,7 +4481,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 184128,
           "arrecadacao": 0,
-          "valorAcumulado": 0,
+          "valorAcumulado": 786.7,
           "ano": 2026
         },
         {
@@ -4855,7 +4855,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 132568.53,
           "arrecadacao": 0,
-          "valorAcumulado": 283318.74,
+          "valorAcumulado": 282007.56,
           "ano": 2026
         },
         {
@@ -5148,12 +5148,12 @@
         "data_assinatura": "2026-04-08 13:12:40",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-03 08:47:34",
+        "atualizado_em": "2026-08-07 15:18:30",
         "data_inicio": "2026-02-21",
         "data_final": null,
         "total": "5",
-        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 03 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 03 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 07 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 07 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5167,12 +5167,12 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-03 11:02:28",
+        "atualizado_em": "2026-08-07 08:27:57",
         "data_inicio": "2025-06-01",
         "data_final": null,
         "total": "5",
-        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 03 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 03 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 07 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 07 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5186,7 +5186,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-03 11:02:28",
+        "atualizado_em": "2026-08-07 08:27:57",
         "data_inicio": "2025-01-01",
         "data_final": "2025-04-30",
         "total": "5",
@@ -5205,7 +5205,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-03 11:02:28",
+        "atualizado_em": "2026-08-07 08:27:57",
         "data_inicio": "2024-01-01",
         "data_final": "2024-12-31",
         "total": "5",
@@ -5224,7 +5224,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-03 11:02:28",
+        "atualizado_em": "2026-08-07 08:27:57",
         "data_inicio": "2022-01-01",
         "data_final": "2022-12-31",
         "total": "5",
