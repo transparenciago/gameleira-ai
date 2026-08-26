@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-08-25T12:23:18.840879+00:00",
+  "atualizado_em": "2026-08-26T12:25:25.640232+00:00",
   "dados": {
     "folha_pagamento": {
-      "total": 335,
+      "total": 334,
       "registros": [
         {
           "mesAno": "07/2026",
@@ -200,7 +200,7 @@
           "nome": "ALEX WILLIAN GANDINE RODRIGUES",
           "cargo": "GESTOR DE PROGRAMAS",
           "dataAdmissao": "29/07/2026",
-          "departamento": "GABINETE DO PREFEITO",
+          "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
