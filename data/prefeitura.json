@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-27T21:23:02.085402+00:00",
+  "atualizado_em": "2026-08-28T21:34:15.197014+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 334,
@@ -2053,8 +2053,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO N°008/2026.",
           "fiscal_contrato": "KARYNE FLEURI",
           "periodo": "11 meses e 19 dias",
-          "valor_executado": "63.000,00",
-          "saldo": "45.000,00",
+          "valor_executado": "72.000,00",
+          "saldo": "36.000,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -2459,8 +2459,8 @@
           "objeto": "CONTRATO N°053/2025.",
           "fiscal_contrato": "KARYNE FLEURI",
           "periodo": "1 ano, 3 meses e 26 dias",
-          "valor_executado": "110.000,00",
-          "saldo": "-70.000,00",
+          "valor_executado": "120.000,00",
+          "saldo": "-80.000,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
