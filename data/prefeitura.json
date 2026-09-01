@@ -1,11 +1,11 @@
 {
-  "atualizado_em": "2026-08-31T18:19:45.302982+00:00",
+  "atualizado_em": "2026-09-01T15:40:39.887029+00:00",
   "dados": {
     "folha_pagamento": {
-      "total": 334,
+      "total": 355,
       "registros": [
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1551,
           "cpf": "xxx.117.981-xx",
           "nome": "ADRIANA ABADIA SANCHES SILVA",
@@ -18,7 +18,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -26,13 +26,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1551,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 340,
           "cpf": "xxx.650.071-xx",
           "nome": "ADRIANO GOMES MENDES",
@@ -45,7 +45,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -53,13 +53,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 340,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1678,
           "cpf": "xxx.898.201-xx",
           "nome": "ADRIELE APARECIDA BRAS DE FRANCA",
@@ -72,7 +72,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -80,26 +80,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1678,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1655,
           "cpf": "xxx.749.081-xx",
           "nome": "ADRIELE BEATRIZ SOUSA SANTOS",
           "cargo": "TÉCNICO DE ENFERMAGEM",
           "dataAdmissao": "01/08/2025",
-          "proventos": 3627.26,
+          "proventos": 4836.22,
           "descontos": 323.86,
-          "totalLiquido": 3303.4,
+          "totalLiquido": 4512.36,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -107,13 +107,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1655,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1727,
           "cpf": "xxx.974.581-xx",
           "nome": "ADRIENNE STEPHANE DOS SANTOS DUARTE",
@@ -126,7 +126,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -134,13 +134,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1727,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1606,
           "cpf": "xxx.904.661-xx",
           "nome": "ALESSANDRA BORGES DE OLIVEIRA",
@@ -153,7 +153,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -161,13 +161,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1606,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1554,
           "cpf": "xxx.149.931-xx",
           "nome": "ALEX HENRIQUE DE OLIVEIRA ALVES",
@@ -180,7 +180,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -188,37 +188,40 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1554,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1775,
           "cpf": "xxx.556.581-xx",
           "nome": "ALEX WILLIAN GANDINE RODRIGUES",
           "cargo": "GESTOR DE PROGRAMAS",
           "dataAdmissao": "29/07/2026",
+          "proventos": 2425.42,
+          "descontos": 282.96,
+          "totalLiquido": 2142.46,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1775,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 354,
           "cpf": "xxx.764.631-xx",
           "nome": "ALEXANDRE PEREIRA DE SOUSA",
@@ -231,7 +234,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -239,26 +242,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 354,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 960,
           "cpf": "xxx.308.831-xx",
           "nome": "ALICE COSTA DE SOUZA CUNHA",
           "cargo": "AGENTE DE SERV. DE HIGIENE E ALIMENTAÇÃO",
           "dataAdmissao": "01/05/2003",
           "proventos": 4301.67,
-          "descontos": 480.15,
-          "totalLiquido": 3821.52,
+          "descontos": 568.42,
+          "totalLiquido": 3733.25,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -266,74 +269,80 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 960,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1779,
           "cpf": "xxx.633.411-xx",
           "nome": "ALINE DA SILVA E SOUZA",
           "cargo": "CONTROLADOR INTERNO",
           "dataAdmissao": "29/07/2026",
+          "proventos": 5475.61,
+          "descontos": 903.26,
+          "totalLiquido": 4572.35,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1779,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1746,
           "cpf": "xxx.065.571-xx",
           "nome": "ALLICE SILVA LOBO ARAUJO",
           "cargo": "AUXILIAR DE EDUCAÇÃO INFANTIL",
           "dataAdmissao": "29/07/2026",
+          "proventos": 1697.55,
+          "descontos": 219.37,
+          "totalLiquido": 1478.18,
           "departamento": "DEPARTAMENTO ESCOLAR",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1746,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1653,
           "cpf": "xxx.489.031-xx",
           "nome": "AMANDA RODRIGUES DOS SANTOS",
           "cargo": "TÉCNICO DE ENFERMAGEM",
           "dataAdmissao": "01/08/2025",
-          "proventos": 3627.26,
+          "proventos": 4836.22,
           "descontos": 323.86,
-          "totalLiquido": 3303.4,
+          "totalLiquido": 4512.36,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -341,13 +350,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1653,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 779,
           "cpf": "xxx.038.571-xx",
           "nome": "ANA APARECIDA RODRIGUES",
@@ -360,7 +369,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -368,26 +377,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 779,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1548,
           "cpf": "xxx.701.341-xx",
           "nome": "ANA CAROLLYNE CANEDO MACHADO",
           "cargo": "SUPERINTENDENTE MUNICIPAL DE CULTURA",
           "dataAdmissao": "02/01/2025",
-          "proventos": 3320.39,
+          "proventos": 4427.07,
           "descontos": 287.03,
-          "totalLiquido": 3033.36,
+          "totalLiquido": 4140.04,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -395,13 +404,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1548,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1553,
           "cpf": "xxx.466.721-xx",
           "nome": "ANA CLAUDIA DE OLIVEIRA",
@@ -414,7 +423,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -422,13 +431,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1553,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 333,
           "cpf": "xxx.931.651-xx",
           "nome": "ANA CRISTINA COTRIM",
@@ -441,7 +450,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -449,65 +458,40 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 333,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
-          "matricula": 1476,
+          "mesAno": "08/2026",
+          "matricula": 1751,
           "cpf": "xxx.495.541-xx",
           "nome": "ANA LUCIA ALVES DOS SANTOS",
           "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
-          "dataAdmissao": "18/05/2023",
-          "dataExoneracao": "28/07/2026",
-          "proventos": 6102.16,
-          "descontos": 224.17,
-          "totalLiquido": 5877.99,
-          "departamento": "MANUT.DEP.OBRAS E SERVIÇOS URBANOS",
-          "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
+          "dataAdmissao": "29/07/2026",
+          "proventos": 2246.41,
+          "descontos": 196.74,
+          "totalLiquido": 2049.67,
+          "departamento": "GABINETE DO PREFEITO",
+          "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
-            "matricula": 1476,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 1751,
-          "cpf": "xxx.495.541-xx",
-          "nome": "ANA LUCIA ALVES DOS SANTOS",
-          "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
-          "dataAdmissao": "29/07/2026",
-          "departamento": "GABINETE DO PREFEITO",
-          "tipoDeVinculo": "Concursado",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
             "matricula": 1751,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1676,
           "cpf": "xxx.181.471-xx",
           "nome": "ANA MARIA LEMES",
@@ -520,7 +504,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -528,13 +512,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1676,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1562,
           "cpf": "xxx.804.041-xx",
           "nome": "ANA PAULA DAMIÃO DUTRA FREITAS",
@@ -547,7 +531,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -555,13 +539,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1562,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1409,
           "cpf": "xxx.964.821-xx",
           "nome": "ANA PAULA NASCIMENTO DOS SANTOS",
@@ -574,7 +558,7 @@
           "tipoDeVinculo": "Processo seletivo público (E.C. Nº 51/06) ACS/ACE",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -582,37 +566,40 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1409,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1784,
           "cpf": "xxx.134.261-xx",
           "nome": "ANDERSON RODOLFO MONTEIRO",
           "cargo": "MOTORISTA TRANSPORTE ESCOLAR",
           "dataAdmissao": "29/07/2026",
+          "proventos": 1992.39,
+          "descontos": 278.93,
+          "totalLiquido": 1713.46,
           "departamento": "DEPARTAMENTO ESCOLAR",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1784,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 128,
           "cpf": "xxx.180.991-xx",
           "nome": "ANGELA MARIA DA CRUZ MENDES DE SOUSA",
@@ -625,7 +612,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -633,13 +620,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 128,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 915,
           "cpf": "xxx.768.501-xx",
           "nome": "ANGELA MARIA DA SILVA",
@@ -652,7 +639,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -660,13 +647,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 915,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1329,
           "cpf": "xxx.190.241-xx",
           "nome": "ANTONIO ALVES MOREIRA",
@@ -679,7 +666,7 @@
           "tipoDeVinculo": "Aposentado",
           "cargaHoraria": 200,
           "situacao": "Inativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -687,13 +674,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1329,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 21,
           "cpf": "xxx.666.411-xx",
           "nome": "ANTONIO APARECIDO SANCHES",
@@ -706,7 +693,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -714,13 +701,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 21,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 228,
           "cpf": "xxx.403.411-xx",
           "nome": "ANTONIO DE PAULA CAETANO LOURENCO",
@@ -733,7 +720,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -741,13 +728,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 228,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 958,
           "cpf": "xxx.644.721-xx",
           "nome": "ANTONIO JURACI DE MORAIS",
@@ -756,11 +743,11 @@
           "proventos": 8432.8,
           "descontos": 4049.39,
           "totalLiquido": 4383.41,
-          "departamento": "DEPARTAMENTO ESCOLAR",
+          "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 240,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -768,13 +755,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 958,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 240,
           "cpf": "xxx.207.891-xx",
           "nome": "APARECIDA ABREU DOS SANTOS BATISTA",
@@ -787,7 +774,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -795,13 +782,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 240,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 978,
           "cpf": "xxx.082.371-xx",
           "nome": "APARECIDA MARIA DAMAS DA SILVA",
@@ -814,7 +801,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -822,13 +809,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 978,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 234,
           "cpf": "xxx.057.571-xx",
           "nome": "APARECIDA ROSELENA DOS SANTOS",
@@ -841,7 +828,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -849,26 +836,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 234,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 194,
           "cpf": "xxx.562.091-xx",
           "nome": "BARBARA ANGELITA DA SILVA TEIXEIRA",
           "cargo": "PROFESSOR",
           "dataAdmissao": "02/05/2007",
           "proventos": 10965.99,
-          "descontos": 3228.17,
-          "totalLiquido": 7737.82,
+          "descontos": 4435.42,
+          "totalLiquido": 6530.57,
           "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -876,13 +863,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 194,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1593,
           "cpf": "xxx.128.001-xx",
           "nome": "BENEDITO MAURICIO CARVALHO",
@@ -895,7 +882,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -903,13 +890,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1593,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1596,
           "cpf": "xxx.969.181-xx",
           "nome": "BERENICE PEREIRA BATISTA",
@@ -922,7 +909,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -930,37 +917,40 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1596,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1748,
           "cpf": "xxx.292.381-xx",
           "nome": "BRUNA LETÍCIA  MORAIS NUNES GODÓI",
           "cargo": "AUXILIAR DE EDUCAÇÃO INFANTIL",
           "dataAdmissao": "29/07/2026",
+          "proventos": 1697.55,
+          "descontos": 219.37,
+          "totalLiquido": 1478.18,
           "departamento": "DEPARTAMENTO ESCOLAR",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1748,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1743,
           "cpf": "xxx.277.151-xx",
           "nome": "BRUNNA ISABELLA DE SOUZA ALVES",
@@ -973,7 +963,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -981,13 +971,94 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1743,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
+          "matricula": 1822,
+          "cpf": "xxx.683.031-xx",
+          "nome": "BRUNO SILVA BOENO",
+          "cargo": "MOTORISTA  DE VEÍCULOS ADMINISTRATIVOS",
+          "dataAdmissao": "17/08/2026",
+          "proventos": 964.85,
+          "descontos": 112.56,
+          "totalLiquido": 852.29,
+          "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
+          "tipoDeVinculo": "Concursado",
+          "cargaHoraria": 200,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1822,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
+          "matricula": 1809,
+          "cpf": "xxx.497.441-xx",
+          "nome": "CACILDA AUXILIADORA GUIMARAES",
+          "cargo": "AUXILIAR DE EDUCAÇÃO INFANTIL",
+          "dataAdmissao": "17/08/2026",
+          "proventos": 702.43,
+          "descontos": 98.34,
+          "totalLiquido": 604.09,
+          "departamento": "DEPARTAMENTO ESCOLAR",
+          "tipoDeVinculo": "Concursado",
+          "cargaHoraria": 200,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1809,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
+          "matricula": 1823,
+          "cpf": "xxx.878.631-xx",
+          "nome": "CAIO MOREIRA ALVES",
+          "cargo": "PROFESSOR DE GEOGRAFIA",
+          "dataAdmissao": "20/08/2026",
+          "proventos": 1064.77,
+          "descontos": 149.06,
+          "totalLiquido": 915.71,
+          "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
+          "tipoDeVinculo": "Concursado",
+          "cargaHoraria": 100,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1823,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
           "matricula": 819,
           "cpf": "xxx.963.201-xx",
           "nome": "CAIRO JOSE VIEIRA",
@@ -1000,7 +1071,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1008,13 +1079,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 819,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1654,
           "cpf": "xxx.993.511-xx",
           "nome": "CARLOS DANIEL BARBOSA ARAUJO",
@@ -1027,7 +1098,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1035,37 +1106,94 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1654,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1798,
           "cpf": "xxx.991.781-xx",
           "nome": "CARLOS EDUARDO GOMES SANTOS",
           "cargo": "MOTORISTA DE AMBULÂNCIA",
           "dataAdmissao": "29/07/2026",
+          "proventos": 2597.65,
+          "descontos": 259.76,
+          "totalLiquido": 2337.89,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1798,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
+          "matricula": 1821,
+          "cpf": "xxx.030.421-xx",
+          "nome": "CATHERINE MARIA OLIVEIRA FRANCES",
+          "cargo": "AUXILIAR DE EDUCAÇÃO INFANTIL",
+          "dataAdmissao": "17/08/2026",
+          "proventos": 756.47,
+          "descontos": 105.9,
+          "totalLiquido": 650.57,
+          "departamento": "DEPARTAMENTO ESCOLAR",
+          "tipoDeVinculo": "Concursado",
+          "cargaHoraria": 200,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1821,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
+          "matricula": 1806,
+          "cpf": "xxx.251.521-xx",
+          "nome": "CELIANE DA SILVA BATISTA",
+          "cargo": "PROFESSOR",
+          "dataAdmissao": "03/08/2026",
+          "proventos": 3859.78,
+          "descontos": 351.76,
+          "totalLiquido": 3508.02,
+          "departamento": "FUNDEB 70%",
+          "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
+          "cargaHoraria": 150,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1806,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
           "matricula": 1239,
           "cpf": "xxx.905.221-xx",
           "nome": "CELIO DE SA ABREU",
@@ -1078,7 +1206,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1086,13 +1214,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1239,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1669,
           "cpf": "xxx.564.271-xx",
           "nome": "CHRISLENY NAYARA GUEDES DE SOUZA OLIVEIRA",
@@ -1105,7 +1233,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1113,13 +1241,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1669,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1667,
           "cpf": "xxx.325.221-xx",
           "nome": "CHRISTIANA GUEDES DE SOUZA OLIVEIRA",
@@ -1132,7 +1260,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1140,50 +1268,80 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1667,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
           "matricula": 1773,
           "cpf": "xxx.038.781-xx",
           "nome": "CLAERYSTON RAMOS SOARES",
           "cargo": "PROFESSOR  DE EDUCAÇÃO FÍSICA",
           "dataAdmissao": "29/07/2026",
+          "proventos": 2661.92,
+          "descontos": 372.66,
+          "totalLiquido": 2289.26,
           "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
+          "situacaoPagamento": "PAGO",
           "chave": {
             "pagina": 1,
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1773,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         },
         {
-          "mesAno": "07/2026",
+          "mesAno": "08/2026",
+          "matricula": 1803,
+          "cpf": "xxx.941.961-xx",
+          "nome": "CLAUDIA CRISTIANE GOMES DE ARAUJO",
+          "cargo": "PROFESSOR",
+          "dataAdmissao": "03/08/2026",
+          "proventos": 3859.78,
+          "descontos": 351.76,
+          "totalLiquido": 3508.02,
+          "departamento": "FUNDEB 70%",
+          "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
+          "cargaHoraria": 150,
+          "situacao": "Ativo",
+          "mes": "08",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1803,
+            "mes": "08",
+            "ano": 2026,
+            "mesInteger": 8
+          }
+        },
+        {
+          "mesAno": "08/2026",
           "matricula": 1549,
           "cpf": "xxx.862.521-xx",
           "nome": "CLAUDIA MARIA DE SOUSA",
           "cargo": "ASSESSOR ADMINISTRATIVO I",
           "dataAdmissao": "02/01/2025",
-          "proventos": 3761.23,
+          "proventos": 2821,
           "descontos": 229.57,
-          "totalLiquido": 3531.66,
+          "totalLiquido": 2591.43,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "07",
+          "mes": "08",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1191,147 +1349,15 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1549,
-            "mes": "07",
+            "mes": "08",
             "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 898,
-          "cpf": "xxx.689.771-xx",
-          "nome": "CLAUDINEIA CONCEIÇÃO ARAÚJO",
-          "cargo": "PROFESSOR",
-          "dataAdmissao": "01/03/2013",
-          "proventos": 7132.74,
-          "descontos": 2910.32,
-          "totalLiquido": 4222.42,
-          "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
-          "tipoDeVinculo": "Concursado",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 898,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 1767,
-          "cpf": "xxx.934.541-xx",
-          "nome": "CLEBER AVELINO DA SILVA",
-          "cargo": "AGENTE DE SERV. DE HIGIENE E ALIMENTAÇÃO",
-          "dataAdmissao": "29/07/2026",
-          "departamento": "DEPARTAMENTO ESCOLAR",
-          "tipoDeVinculo": "Concursado",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "NÃO PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 1767,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 1626,
-          "cpf": "xxx.580.881-xx",
-          "nome": "CLEIDIMAR CUNHA LACERDA",
-          "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
-          "dataAdmissao": "11/07/2025",
-          "proventos": 1856.41,
-          "descontos": 142.75,
-          "totalLiquido": 1713.66,
-          "departamento": "GABINETE DO PREFEITO",
-          "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 1626,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 1411,
-          "cpf": "xxx.407.621-xx",
-          "nome": "CLELIA KATIA DOS SANTOS",
-          "cargo": "AGENTE COMUNITÁRIO DE SAÚDE",
-          "dataAdmissao": "20/06/2022",
-          "proventos": 5298.89,
-          "descontos": 2390.38,
-          "totalLiquido": 2908.51,
-          "departamento": "FUNDO MUNICIPAL DE SAUDE",
-          "tipoDeVinculo": "Processo seletivo público (E.C. Nº 51/06) ACS/ACE",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 1411,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
-          }
-        },
-        {
-          "mesAno": "07/2026",
-          "matricula": 1599,
-          "cpf": "xxx.093.021-xx",
-          "nome": "COLEMAR JOSE COELHO",
-          "cargo": "SUPERVISOR DOS SERVIÇOS DO DISTRITO DE MUCAMBINHO",
-          "dataAdmissao": "03/02/2025",
-          "proventos": 3390.66,
-          "descontos": 295.46,
-          "totalLiquido": 3095.2,
-          "departamento": "GABINETE DO PREFEITO",
-          "tipoDeVinculo": "Comissionado",
-          "cargaHoraria": 200,
-          "situacao": "Ativo",
-          "mes": "07",
-          "ano": 2026,
-          "situacaoPagamento": "PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 1599,
-            "mes": "07",
-            "ano": 2026,
-            "mesInteger": 7
+            "mesInteger": 8
           }
         }
       ],
       "paginaAtual": 1,
       "ano": "2026",
-      "mes": "07"
+      "mes": "08"
     },
     "contratos": {
       "dados": [
@@ -1578,7 +1604,7 @@
           "valor": "32.998,00",
           "numero": "026",
           "ano": 2026,
-          "situacao": "Em Vencimento",
+          "situacao": "Encerrado",
           "data_publicacao": "17/07/2026",
           "data_firmatura": "15/07/2026",
           "inicio_vigencia": "15/07/2026",
@@ -2227,8 +2253,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA DE CONTABILIDADE PUBLICA MUNICIPAL, ACOMPANHAMENTO DA ELABORAÇÃO DOS BALANCETES CONTABEIS DO EXECUTIVO, FMS, FMAS, FUNDEB, FME, FMDCA E ELABORAÇÕES DO PPA, LDO E LOA, CONFORME CONTRATO 002/2026.",
           "fiscal_contrato": "WIVVIANE DE CARVALHO DUARTE",
           "periodo": "2 anos, 11 meses e 22 dias",
-          "valor_executado": "162.561,00",
-          "saldo": "116.235,00",
+          "valor_executado": "185.784,00",
+          "saldo": "93.012,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -4284,7 +4310,7 @@
           "chave": {
             "codigoDaReceita": 3540,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4301,7 +4327,7 @@
           "chave": {
             "codigoDaReceita": 3602,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4318,7 +4344,7 @@
           "chave": {
             "codigoDaReceita": 3574,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4335,7 +4361,7 @@
           "chave": {
             "codigoDaReceita": 3636,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4352,7 +4378,7 @@
           "chave": {
             "codigoDaReceita": 3530,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4369,7 +4395,7 @@
           "chave": {
             "codigoDaReceita": 3563,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4386,7 +4412,7 @@
           "chave": {
             "codigoDaReceita": 3543,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4403,7 +4429,7 @@
           "chave": {
             "codigoDaReceita": 3607,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4420,7 +4446,7 @@
           "chave": {
             "codigoDaReceita": 3513,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4437,7 +4463,7 @@
           "chave": {
             "codigoDaReceita": 3544,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4454,7 +4480,7 @@
           "chave": {
             "codigoDaReceita": 3568,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4471,7 +4497,7 @@
           "chave": {
             "codigoDaReceita": 3598,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4488,7 +4514,7 @@
           "chave": {
             "codigoDaReceita": 3551,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4505,7 +4531,7 @@
           "chave": {
             "codigoDaReceita": 3649,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4522,7 +4548,7 @@
           "chave": {
             "codigoDaReceita": 3596,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4539,7 +4565,7 @@
           "chave": {
             "codigoDaReceita": 3560,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4556,7 +4582,7 @@
           "chave": {
             "codigoDaReceita": 3609,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4573,7 +4599,7 @@
           "chave": {
             "codigoDaReceita": 3645,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4590,7 +4616,7 @@
           "chave": {
             "codigoDaReceita": 3546,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4607,7 +4633,7 @@
           "chave": {
             "codigoDaReceita": 3655,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4624,7 +4650,7 @@
           "chave": {
             "codigoDaReceita": 3517,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4641,7 +4667,7 @@
           "chave": {
             "codigoDaReceita": 3618,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4658,7 +4684,7 @@
           "chave": {
             "codigoDaReceita": 3553,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4675,7 +4701,7 @@
           "chave": {
             "codigoDaReceita": 3603,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4692,7 +4718,7 @@
           "chave": {
             "codigoDaReceita": 3573,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4709,7 +4735,7 @@
           "chave": {
             "codigoDaReceita": 3514,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4726,7 +4752,7 @@
           "chave": {
             "codigoDaReceita": 3622,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4743,7 +4769,7 @@
           "chave": {
             "codigoDaReceita": 3634,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4760,7 +4786,7 @@
           "chave": {
             "codigoDaReceita": 3662,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4777,7 +4803,7 @@
           "chave": {
             "codigoDaReceita": 3638,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4794,7 +4820,7 @@
           "chave": {
             "codigoDaReceita": 3621,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4811,7 +4837,7 @@
           "chave": {
             "codigoDaReceita": 3525,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4828,7 +4854,7 @@
           "chave": {
             "codigoDaReceita": 3565,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4845,7 +4871,7 @@
           "chave": {
             "codigoDaReceita": 3529,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4862,7 +4888,7 @@
           "chave": {
             "codigoDaReceita": 3628,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4879,7 +4905,7 @@
           "chave": {
             "codigoDaReceita": 3515,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4896,7 +4922,7 @@
           "chave": {
             "codigoDaReceita": 3580,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4913,7 +4939,7 @@
           "chave": {
             "codigoDaReceita": 3516,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4930,7 +4956,7 @@
           "chave": {
             "codigoDaReceita": 3661,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4947,7 +4973,7 @@
           "chave": {
             "codigoDaReceita": 3643,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4964,7 +4990,7 @@
           "chave": {
             "codigoDaReceita": 3537,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -4981,7 +5007,7 @@
           "chave": {
             "codigoDaReceita": 3646,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -4998,7 +5024,7 @@
           "chave": {
             "codigoDaReceita": 3879,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5015,7 +5041,7 @@
           "chave": {
             "codigoDaReceita": 3880,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5032,7 +5058,7 @@
           "chave": {
             "codigoDaReceita": 3873,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5049,7 +5075,7 @@
           "chave": {
             "codigoDaReceita": 3874,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5066,7 +5092,7 @@
           "chave": {
             "codigoDaReceita": 3507,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5083,7 +5109,7 @@
           "chave": {
             "codigoDaReceita": 3575,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5100,7 +5126,7 @@
           "chave": {
             "codigoDaReceita": 3629,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5117,7 +5143,7 @@
           "chave": {
             "codigoDaReceita": 3558,
             "ano": 2026,
-            "mes": "08",
+            "mes": "09",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5133,7 +5159,7 @@
       ],
       "paginaAtual": 1,
       "ano": "2026",
-      "mes": "08"
+      "mes": "09"
     },
     "licitacoes": [
       {
