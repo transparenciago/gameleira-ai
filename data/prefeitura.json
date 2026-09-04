@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-03T15:22:58.734721+00:00",
+  "atualizado_em": "2026-09-04T15:18:54.098762+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 355,
@@ -1644,8 +1644,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº025/2026.",
           "fiscal_contrato": "ADRIENNE STEPHANE DOS SANTOS DUARTE",
           "periodo": "5 meses e 21 dias",
-          "valor_executado": "4.000,00",
-          "saldo": "20.000,00",
+          "valor_executado": "8.000,00",
+          "saldo": "16.000,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -1934,8 +1934,8 @@
           "objeto": "CONTRATO ADMINISTRATIVO DE N°014/2026.",
           "fiscal_contrato": "ADRIENE CRISTINA ...OLIVEIRA E OUTROS",
           "periodo": "9 meses e 12 dias",
-          "valor_executado": "30.016,20",
-          "saldo": "28.683,80",
+          "valor_executado": "36.031,92",
+          "saldo": "22.668,08",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,

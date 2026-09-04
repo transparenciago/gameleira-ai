@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-03T15:22:54.092084+00:00",
+  "atualizado_em": "2026-09-04T15:18:49.118248+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 12,
@@ -4266,7 +4266,7 @@
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 2284614.72,
           "arrecadacao": 0,
-          "valorAcumulado": 1332691.92,
+          "valorAcumulado": 1523076.48,
           "ano": 2026
         }
       ],
