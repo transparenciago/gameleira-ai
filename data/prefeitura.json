@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-04T15:18:54.098762+00:00",
+  "atualizado_em": "2026-09-05T14:06:53.569790+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 355,
@@ -5163,6 +5163,25 @@
     },
     "licitacoes": [
       {
+        "id": "25",
+        "modulo": "licitacoes",
+        "modalidades": [
+          "20"
+        ],
+        "situacoes": null,
+        "texto": "<p>                                    <span><strong>\"Não realização de Licitação\"</strong></span>                                    <br> <br><br>                                    <span>Declaro para os devidos fins que, esta instituição, não realizou procedimentos licitatórios, da forma como segue:</span>                                    <br> <br>                                    <span class=\"lista-modalidades\">Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS.</span>                                </p>",
+        "autor": "1010",
+        "data_assinatura": "2025-06-19 09:08:14",
+        "lembretes": "0",
+        "ocultar_modalidades": "0",
+        "atualizado_em": "2026-09-04 16:26:14",
+        "data_inicio": "2026-09-01",
+        "data_final": null,
+        "total": "6",
+        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 04 de Setembro de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 04 de Setembro de 2026. <u>Conferir Declaração.</u></strong>"
+      },
+      {
         "id": "29",
         "modulo": "licitacoes",
         "modalidades": [
@@ -5177,7 +5196,7 @@
         "atualizado_em": "2026-08-19 14:33:18",
         "data_inicio": "2026-02-21",
         "data_final": null,
-        "total": "5",
+        "total": "6",
         "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 19 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
         "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 19 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
       },
@@ -5189,16 +5208,16 @@
         ],
         "situacoes": null,
         "texto": "<p>                                    <span><strong>\"Não realização de Licitação\"</strong></span>                                    <br> <br><br>                                    <span>Declaro para os devidos fins que, esta instituição, não realizou procedimentos licitatórios, da forma como segue:</span>                                    <br> <br>                                    <span class=\"lista-modalidades\">Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS.</span>                                </p>",
-        "autor": "1009",
+        "autor": "1010",
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-19 16:11:08",
+        "atualizado_em": "2026-09-04 16:26:14",
         "data_inicio": "2025-06-01",
-        "data_final": null,
-        "total": "5",
-        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 19 de Agosto de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 até 19 de Agosto de 2026. <u>Conferir Declaração.</u></strong>"
+        "data_final": "2026-06-30",
+        "total": "6",
+        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 à 30 de Junho de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Junho de 2025 à 30 de Junho de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5208,14 +5227,14 @@
         ],
         "situacoes": null,
         "texto": "<p>                                    <span><strong>\"Não realização de Licitação\"</strong></span>                                    <br> <br><br>                                    <span>Declaro para os devidos fins que, esta instituição, não realizou procedimentos licitatórios, da forma como segue:</span>                                    <br> <br>                                    <span class=\"lista-modalidades\">Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS.</span>                                </p>",
-        "autor": "1009",
+        "autor": "1010",
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-19 16:11:08",
+        "atualizado_em": "2026-09-04 16:26:14",
         "data_inicio": "2025-01-01",
         "data_final": "2025-04-30",
-        "total": "5",
+        "total": "6",
         "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2025 à 30 de Abril de 2025. <u>Conferir Declaração.</u></strong>",
         "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2025 à 30 de Abril de 2025. <u>Conferir Declaração.</u></strong>"
       },
@@ -5227,14 +5246,14 @@
         ],
         "situacoes": null,
         "texto": "<p>                                    <span><strong>\"Não realização de Licitação\"</strong></span>                                    <br> <br><br>                                    <span>Declaro para os devidos fins que, esta instituição, não realizou procedimentos licitatórios, da forma como segue:</span>                                    <br> <br>                                    <span class=\"lista-modalidades\">Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS.</span>                                </p>",
-        "autor": "1009",
+        "autor": "1010",
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-19 16:11:08",
+        "atualizado_em": "2026-09-04 16:26:14",
         "data_inicio": "2024-01-01",
         "data_final": "2024-12-31",
-        "total": "5",
+        "total": "6",
         "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2024 à 31 de Dezembro de 2024. <u>Conferir Declaração.</u></strong>",
         "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2024 à 31 de Dezembro de 2024. <u>Conferir Declaração.</u></strong>"
       },
@@ -5246,14 +5265,14 @@
         ],
         "situacoes": null,
         "texto": "<p>                                    <span><strong>\"Não realização de Licitação\"</strong></span>                                    <br> <br><br>                                    <span>Declaro para os devidos fins que, esta instituição, não realizou procedimentos licitatórios, da forma como segue:</span>                                    <br> <br>                                    <span class=\"lista-modalidades\">Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS.</span>                                </p>",
-        "autor": "1009",
+        "autor": "1010",
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-08-19 16:11:08",
+        "atualizado_em": "2026-09-04 16:26:14",
         "data_inicio": "2022-01-01",
         "data_final": "2022-12-31",
-        "total": "5",
+        "total": "6",
         "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2022 à 31 de Dezembro de 2022. <u>Conferir Declaração.</u></strong>",
         "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Janeiro de 2022 à 31 de Dezembro de 2022. <u>Conferir Declaração.</u></strong>"
       }
