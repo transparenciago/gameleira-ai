@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-07T16:46:06.214129+00:00",
+  "atualizado_em": "2026-09-08T15:32:07.818711+00:00",
   "dados": {
     "folha_pagamento": 0,
     "licitacoes": {
@@ -3937,6 +3937,47 @@
         }
       ]
     },
-    "receitas": 0
+    "receitas": {
+      "total": 2,
+      "registros": [
+        {
+          "chave": {
+            "codigoDaReceita": 34,
+            "ano": 2026,
+            "mes": "09",
+            "codigoDoOrgao": 11
+          },
+          "orgaoUnidadeGestora": "CAMARA MUNICIPAL DE GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "receita": "Remuneração de Depósitos Bancários - Geral - Principal",
+          "naturezaDaReceita": "1321.01.1.1 - Remuneração de Depósitos Bancários - Geral - Principal",
+          "origemDoRecurso": "Outras Fontes de Recursos",
+          "valorOrcado": 0,
+          "arrecadacao": 0,
+          "valorAcumulado": 9941.84,
+          "ano": 2026
+        },
+        {
+          "chave": {
+            "codigoDaReceita": -1,
+            "ano": 2026,
+            "mes": "09",
+            "codigoDoOrgao": 11
+          },
+          "orgaoUnidadeGestora": "CAMARA MUNICIPAL DE GAMELEIRA DE GOIAS",
+          "fonteDaReceita": "1.00.000 - Recursos Não vinculados de Impostos",
+          "receita": "TRANSFERÊNCIAS RECEBIDAS",
+          "naturezaDaReceita": "9999.99.99.99 - TRANSFERÊNCIAS RECEBIDAS",
+          "origemDoRecurso": "Outras Fontes de Recursos",
+          "valorOrcado": 2284614.72,
+          "arrecadacao": 0,
+          "valorAcumulado": 1523076.48,
+          "ano": 2026
+        }
+      ],
+      "paginaAtual": 1,
+      "ano": "2026",
+      "mes": "09"
+    }
   }
 }
