@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-08T15:32:12.259842+00:00",
+  "atualizado_em": "2026-09-09T15:27:16.117584+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 359,
@@ -1844,8 +1844,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO N°017/2026.",
           "fiscal_contrato": "ADRIENE CRISTINA ...OLIVEIRA E OUTROS",
           "periodo": "9 meses e 13 dias",
-          "valor_executado": "24.000,00",
-          "saldo": "24.000,00",
+          "valor_executado": "28.800,00",
+          "saldo": "19.200,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
