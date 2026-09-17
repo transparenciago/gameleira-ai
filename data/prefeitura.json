@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-16T15:41:08.381751+00:00",
+  "atualizado_em": "2026-09-17T15:47:12.933916+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 359,
@@ -1409,8 +1409,8 @@
           "objeto": "CONTRATO DE APRESENTAÇÃO ARTÍSTICA QUE ENTRE SI  CELEBRAM O MUNICÍPIO DE GAMELEIRA DE GOIÁS E A EMPRESA MELO PRODUÇOES LTDA.",
           "fiscal_contrato": "KARYNE FLEURI",
           "periodo": "2 meses",
-          "valor_executado": null,
-          "saldo": "25.000,00",
+          "valor_executado": "25.000,00",
+          "saldo": null,
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -4640,7 +4640,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 168016.8,
           "arrecadacao": 0,
-          "valorAcumulado": 416811.51,
+          "valorAcumulado": 445289.73,
           "ano": 2026
         },
         {
@@ -4657,7 +4657,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 138096.01,
           "arrecadacao": 0,
-          "valorAcumulado": 173671.47,
+          "valorAcumulado": 185537.4,
           "ano": 2026
         },
         {
@@ -4674,7 +4674,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 62143.2,
           "arrecadacao": 0,
-          "valorAcumulado": 104202.89,
+          "valorAcumulado": 111322.45,
           "ano": 2026
         },
         {
@@ -4742,7 +4742,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 142407.93,
           "arrecadacao": 0,
-          "valorAcumulado": 138711.25,
+          "valorAcumulado": 150411.25,
           "ano": 2026
         },
         {
@@ -4759,7 +4759,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 59336.63,
           "arrecadacao": 0,
-          "valorAcumulado": 57796.35,
+          "valorAcumulado": 62671.35,
           "ano": 2026
         },
         {
@@ -4776,7 +4776,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 35601.98,
           "arrecadacao": 0,
-          "valorAcumulado": 34677.8,
+          "valorAcumulado": 37602.8,
           "ano": 2026
         },
         {
@@ -4878,7 +4878,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 132568.53,
           "arrecadacao": 0,
-          "valorAcumulado": 282007.56,
+          "valorAcumulado": 283746.97,
           "ano": 2026
         },
         {
