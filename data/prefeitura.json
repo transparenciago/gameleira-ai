@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-07T18:03:26.030625+00:00",
+  "atualizado_em": "2026-10-08T18:05:15.950309+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 351,
@@ -2514,8 +2514,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº017/2026.",
           "fiscal_contrato": "MARIA IONE FERREIRA RIBEIRO",
           "periodo": "4 meses",
-          "valor_executado": null,
-          "saldo": "15.420,00",
+          "valor_executado": "4.500,00",
+          "saldo": "10.920,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
