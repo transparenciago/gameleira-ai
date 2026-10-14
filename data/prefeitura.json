@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-13T18:36:19.761266+00:00",
+  "atualizado_em": "2026-10-14T16:05:08.864436+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 351,
@@ -1470,8 +1470,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº041/2026.",
           "fiscal_contrato": "KARYNE FLEURI",
           "periodo": "2 meses e 29 dias",
-          "valor_executado": null,
-          "saldo": "9.307,77",
+          "valor_executado": "9.307,77",
+          "saldo": null,
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -5192,12 +5192,12 @@
         "data_assinatura": "2026-04-08 13:12:40",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-09-22 13:09:09",
+        "atualizado_em": "2026-10-05 11:30:18",
         "data_inicio": "2026-02-21",
         "data_final": null,
         "total": "6",
-        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 22 de Setembro de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 22 de Setembro de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 05 de Outubro de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 05 de Outubro de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
