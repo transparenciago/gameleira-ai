@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-16T15:41:17.668223+00:00",
+  "atualizado_em": "2026-10-17T14:33:04.242555+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 351,
@@ -1604,7 +1604,7 @@
           "valor": "4.538,80",
           "numero": "037",
           "ano": 2026,
-          "situacao": "Vigente",
+          "situacao": "Em Vencimento",
           "data_publicacao": "16/09/2026",
           "data_firmatura": "16/09/2026",
           "inicio_vigencia": "16/09/2026",
