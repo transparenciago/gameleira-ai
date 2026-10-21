@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-20T15:56:42.208626+00:00",
+  "atualizado_em": "2026-10-21T16:13:37.950720+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 351,
@@ -1963,8 +1963,8 @@
           "objeto": "CONTRATO ADMINISTRATIVO Nº024/2026.",
           "fiscal_contrato": "MARIA IONE FERREIRA RIBEIRO",
           "periodo": "3 meses e 10 dias",
-          "valor_executado": null,
-          "saldo": "16.800,00",
+          "valor_executado": "448,00",
+          "saldo": "16.352,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
