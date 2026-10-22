@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-21T16:13:37.950720+00:00",
+  "atualizado_em": "2026-10-22T16:11:50.260520+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 351,
@@ -1528,8 +1528,8 @@
           "objeto": "CONTRATO DE PRESTAÇÃO DE SERVIÇO Nº040/202.",
           "fiscal_contrato": "ADRIENNE STEPHANE DOS SANTOS DUARTE",
           "periodo": "3 meses e 6 dias",
-          "valor_executado": null,
-          "saldo": "43.180,00",
+          "valor_executado": "8.636,00",
+          "saldo": "34.544,00",
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -1836,7 +1836,7 @@
           "valor": "354.000,00",
           "numero": "029",
           "ano": 2026,
-          "situacao": "Em Vencimento",
+          "situacao": "Encerrado",
           "data_publicacao": "21/07/2026",
           "data_firmatura": "21/07/2026",
           "inicio_vigencia": "21/07/2026",
