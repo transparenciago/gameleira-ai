@@ -1,11 +1,11 @@
 {
-  "atualizado_em": "2026-10-30T17:22:23.500368+00:00",
+  "atualizado_em": "2026-10-31T16:26:11.095240+00:00",
   "dados": {
     "folha_pagamento": {
-      "total": 351,
+      "total": 347,
       "registros": [
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1551,
           "cpf": "xxx.117.981-xx",
           "nome": "ADRIANA ABADIA SANCHES SILVA",
@@ -18,7 +18,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -26,13 +26,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1551,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1826,
           "cpf": "xxx.203.146-xx",
           "nome": "ADRIANA DE CASSIA OLIVEIRA ALVES SOUSA",
@@ -45,7 +45,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 150,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -53,13 +53,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1826,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 340,
           "cpf": "xxx.650.071-xx",
           "nome": "ADRIANO GOMES MENDES",
@@ -72,7 +72,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -80,13 +80,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 340,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1678,
           "cpf": "xxx.898.201-xx",
           "nome": "ADRIELE APARECIDA BRAS DE FRANCA",
@@ -99,7 +99,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -107,13 +107,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1678,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1655,
           "cpf": "xxx.749.081-xx",
           "nome": "ADRIELE BEATRIZ SOUSA SANTOS",
@@ -126,7 +126,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -134,26 +134,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1655,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1727,
           "cpf": "xxx.974.581-xx",
           "nome": "ADRIENNE STEPHANE DOS SANTOS DUARTE",
           "cargo": "SECRETARIA MUN. DE ADM E SERVIÇOS PUBLICOS",
           "dataAdmissao": "02/02/2026",
-          "proventos": 6181.45,
-          "descontos": 1119.08,
-          "totalLiquido": 5062.37,
+          "proventos": 6231.45,
+          "descontos": 1400.11,
+          "totalLiquido": 4831.34,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -161,13 +161,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1727,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1606,
           "cpf": "xxx.904.661-xx",
           "nome": "ALESSANDRA BORGES DE OLIVEIRA",
@@ -180,7 +180,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -188,13 +188,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1606,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1554,
           "cpf": "xxx.149.931-xx",
           "nome": "ALEX HENRIQUE DE OLIVEIRA ALVES",
@@ -207,7 +207,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -215,13 +215,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1554,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1775,
           "cpf": "xxx.556.581-xx",
           "nome": "ALEX WILLIAN GANDINE RODRIGUES",
@@ -234,7 +234,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -242,26 +242,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1775,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 354,
           "cpf": "xxx.764.631-xx",
           "nome": "ALEXANDRE PEREIRA DE SOUSA",
           "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
           "dataAdmissao": "01/11/2012",
-          "proventos": 5469.94,
-          "descontos": 880.06,
-          "totalLiquido": 4589.88,
+          "proventos": 5507.05,
+          "descontos": 895.21,
+          "totalLiquido": 4611.84,
           "departamento": "DEPARTAMENTO DE LIMPEZA",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -269,26 +269,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 354,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 960,
           "cpf": "xxx.308.831-xx",
           "nome": "ALICE COSTA DE SOUZA CUNHA",
           "cargo": "AGENTE DE SERV. DE HIGIENE E ALIMENTAÇÃO",
           "dataAdmissao": "01/05/2003",
           "proventos": 4561.42,
-          "descontos": 602.12,
-          "totalLiquido": 3959.3,
+          "descontos": 513.85,
+          "totalLiquido": 4047.57,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -296,13 +296,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 960,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1779,
           "cpf": "xxx.633.411-xx",
           "nome": "ALINE DA SILVA E SOUZA",
@@ -315,7 +315,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -323,13 +323,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1779,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1746,
           "cpf": "xxx.065.571-xx",
           "nome": "ALLICE SILVA LOBO ARAUJO",
@@ -342,7 +342,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -350,13 +350,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1746,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1653,
           "cpf": "xxx.489.031-xx",
           "nome": "AMANDA RODRIGUES DOS SANTOS",
@@ -369,7 +369,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -377,13 +377,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1653,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 779,
           "cpf": "xxx.038.571-xx",
           "nome": "ANA APARECIDA RODRIGUES",
@@ -396,7 +396,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -404,13 +404,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 779,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1548,
           "cpf": "xxx.701.341-xx",
           "nome": "ANA CAROLLYNE CANEDO MACHADO",
@@ -423,7 +423,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -431,26 +431,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1548,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1553,
           "cpf": "xxx.466.721-xx",
           "nome": "ANA CLAUDIA DE OLIVEIRA",
           "cargo": "COORDENADOR DE TRIBUTOS",
           "dataAdmissao": "02/01/2025",
-          "proventos": 3494.57,
+          "proventos": 2621,
           "descontos": 211.57,
-          "totalLiquido": 3283,
+          "totalLiquido": 2409.43,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -458,13 +458,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1553,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 333,
           "cpf": "xxx.931.651-xx",
           "nome": "ANA CRISTINA COTRIM",
@@ -477,7 +477,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -485,26 +485,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 333,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1751,
           "cpf": "xxx.495.541-xx",
           "nome": "ANA LUCIA ALVES DOS SANTOS",
           "cargo": "AUXILIAR DE SERVIÇOS GERAIS",
           "dataAdmissao": "29/07/2026",
-          "proventos": 1991.49,
+          "proventos": 2156.41,
           "descontos": 196.74,
-          "totalLiquido": 1794.75,
+          "totalLiquido": 1959.67,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -512,13 +512,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1751,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1676,
           "cpf": "xxx.181.471-xx",
           "nome": "ANA MARIA LEMES",
@@ -531,7 +531,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -539,26 +539,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1676,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1562,
           "cpf": "xxx.804.041-xx",
           "nome": "ANA PAULA DAMIÃO DUTRA FREITAS",
           "cargo": "ASSESSOR ADMINISTRATIVO I",
           "dataAdmissao": "02/01/2025",
-          "proventos": 2621,
-          "descontos": 211.57,
-          "totalLiquido": 2409.43,
+          "proventos": 2671,
+          "descontos": 895.17,
+          "totalLiquido": 1775.83,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -566,26 +566,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1562,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1409,
           "cpf": "xxx.964.821-xx",
           "nome": "ANA PAULA NASCIMENTO DOS SANTOS",
           "cargo": "AGENTE COMUNITÁRIO DE SAÚDE",
           "dataAdmissao": "20/06/2022",
-          "proventos": 4629.58,
-          "descontos": 555.54,
-          "totalLiquido": 4074.04,
+          "proventos": 4538.8,
+          "descontos": 544.65,
+          "totalLiquido": 3994.15,
           "departamento": "FUNDO MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Processo seletivo público (E.C. Nº 51/06) ACS/ACE",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -593,26 +593,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1409,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1784,
           "cpf": "xxx.134.261-xx",
           "nome": "ANDERSON RODOLFO MONTEIRO",
           "cargo": "MOTORISTA TRANSPORTE ESCOLAR",
           "dataAdmissao": "29/07/2026",
-          "proventos": 1992.39,
+          "proventos": 2276.31,
           "descontos": 278.93,
-          "totalLiquido": 1713.46,
+          "totalLiquido": 1997.38,
           "departamento": "DEPARTAMENTO ESCOLAR",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -620,13 +620,40 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1784,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
+          "matricula": 1831,
+          "cpf": "xxx.873.421-xx",
+          "nome": "ANDRESSA SANTOS DE ALMEIDA MELO",
+          "cargo": "PROFESSOR DE LETRAS",
+          "dataAdmissao": "20/10/2026",
+          "proventos": 1597.15,
+          "descontos": 223.6,
+          "totalLiquido": 1373.55,
+          "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
+          "tipoDeVinculo": "Concursado",
+          "cargaHoraria": 150,
+          "situacao": "Ativo",
+          "mes": "10",
+          "ano": 2026,
+          "situacaoPagamento": "PAGO",
+          "chave": {
+            "pagina": 1,
+            "tamanhoDaPagina": 5,
+            "ordenacao": {},
+            "matricula": 1831,
+            "mes": "10",
+            "ano": 2026,
+            "mesInteger": 10
+          }
+        },
+        {
+          "mesAno": "10/2026",
           "matricula": 128,
           "cpf": "xxx.180.991-xx",
           "nome": "ANGELA MARIA DA CRUZ MENDES DE SOUSA",
@@ -639,7 +666,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -647,13 +674,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 128,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 915,
           "cpf": "xxx.768.501-xx",
           "nome": "ANGELA MARIA DA SILVA",
@@ -666,7 +693,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -674,13 +701,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 915,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1329,
           "cpf": "xxx.190.241-xx",
           "nome": "ANTONIO ALVES MOREIRA",
@@ -693,7 +720,7 @@
           "tipoDeVinculo": "Aposentado",
           "cargaHoraria": 200,
           "situacao": "Inativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -701,13 +728,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1329,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 21,
           "cpf": "xxx.666.411-xx",
           "nome": "ANTONIO APARECIDO SANCHES",
@@ -720,7 +747,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -728,13 +755,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 21,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 228,
           "cpf": "xxx.403.411-xx",
           "nome": "ANTONIO DE PAULA CAETANO LOURENCO",
@@ -747,7 +774,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -755,26 +782,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 228,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 958,
           "cpf": "xxx.644.721-xx",
           "nome": "ANTONIO JURACI DE MORAIS",
           "cargo": "PROFESSOR",
           "dataAdmissao": "13/04/1992",
           "proventos": 8432.8,
-          "descontos": 4049.39,
-          "totalLiquido": 4383.41,
+          "descontos": 4225.82,
+          "totalLiquido": 4206.98,
           "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 240,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -782,26 +809,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 958,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 240,
           "cpf": "xxx.207.891-xx",
           "nome": "APARECIDA ABREU DOS SANTOS BATISTA",
           "cargo": "PROFESSOR",
           "dataAdmissao": "04/08/2008",
-          "proventos": 8283.99,
-          "descontos": 3927.88,
-          "totalLiquido": 4356.11,
+          "proventos": 7773.99,
+          "descontos": 3787.63,
+          "totalLiquido": 3986.36,
           "departamento": "MANUTENÇÃO ENSINO MUNICIPAL FUNDEB 60%",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -809,13 +836,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 240,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 978,
           "cpf": "xxx.082.371-xx",
           "nome": "APARECIDA MARIA DAMAS DA SILVA",
@@ -828,7 +855,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -836,26 +863,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 978,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 234,
           "cpf": "xxx.057.571-xx",
           "nome": "APARECIDA ROSELENA DOS SANTOS",
           "cargo": "AGENTE DE SERV. DE HIGIENE E ALIMENTAÇÃO",
           "dataAdmissao": "02/06/2008",
-          "proventos": 3504.19,
+          "proventos": 3339.19,
           "descontos": 459.78,
-          "totalLiquido": 3044.41,
+          "totalLiquido": 2879.41,
           "departamento": "DEPARTAMENTO ESCOLAR",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -863,13 +890,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 234,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 194,
           "cpf": "xxx.562.091-xx",
           "nome": "BARBARA ANGELITA DA SILVA TEIXEIRA",
@@ -882,7 +909,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -890,13 +917,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 194,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1593,
           "cpf": "xxx.128.001-xx",
           "nome": "BENEDITO MAURICIO CARVALHO",
@@ -909,7 +936,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -917,13 +944,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1593,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1596,
           "cpf": "xxx.969.181-xx",
           "nome": "BERENICE PEREIRA BATISTA",
@@ -936,7 +963,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -944,13 +971,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1596,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1748,
           "cpf": "xxx.292.381-xx",
           "nome": "BRUNA LETÍCIA  MORAIS NUNES GODÓI",
@@ -963,7 +990,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -971,13 +998,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1748,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1743,
           "cpf": "xxx.277.151-xx",
           "nome": "BRUNNA ISABELLA DE SOUZA ALVES",
@@ -990,7 +1017,7 @@
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -998,26 +1025,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1743,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1822,
           "cpf": "xxx.683.031-xx",
           "nome": "BRUNO SILVA BOENO",
           "cargo": "MOTORISTA  DE VEÍCULOS ADMINISTRATIVOS",
           "dataAdmissao": "17/08/2026",
-          "proventos": 2442.26,
+          "proventos": 2801.99,
           "descontos": 259.76,
-          "totalLiquido": 2182.5,
+          "totalLiquido": 2542.23,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1025,13 +1052,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1822,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1809,
           "cpf": "xxx.497.441-xx",
           "nome": "CACILDA AUXILIADORA GUIMARAES",
@@ -1044,7 +1071,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1052,13 +1079,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1809,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1823,
           "cpf": "xxx.878.631-xx",
           "nome": "CAIO MOREIRA ALVES",
@@ -1071,7 +1098,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 100,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1079,13 +1106,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1823,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 819,
           "cpf": "xxx.963.201-xx",
           "nome": "CAIRO JOSE VIEIRA",
@@ -1098,7 +1125,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1106,26 +1133,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 819,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1654,
           "cpf": "xxx.993.511-xx",
           "nome": "CARLOS DANIEL BARBOSA ARAUJO",
           "cargo": "TÉCNICO DE ENFERMAGEM",
           "dataAdmissao": "01/08/2025",
-          "proventos": 3627.26,
+          "proventos": 4836.22,
           "descontos": 323.86,
-          "totalLiquido": 3303.4,
+          "totalLiquido": 4512.36,
           "departamento": "SECRETARIA MUNICIPAL DE SAUDE",
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1133,13 +1160,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1654,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1798,
           "cpf": "xxx.991.781-xx",
           "nome": "CARLOS EDUARDO GOMES SANTOS",
@@ -1152,7 +1179,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1160,13 +1187,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1798,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1821,
           "cpf": "xxx.030.421-xx",
           "nome": "CATHERINE MARIA OLIVEIRA FRANCES",
@@ -1179,7 +1206,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1187,13 +1214,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1821,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1806,
           "cpf": "xxx.251.521-xx",
           "nome": "CELIANE DA SILVA BATISTA",
@@ -1206,7 +1233,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 150,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1214,26 +1241,26 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1806,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1239,
           "cpf": "xxx.905.221-xx",
           "nome": "CELIO DE SA ABREU",
           "cargo": "SUPERINTENDENTE DE ARRECADAÇÃO E FISCALIZAÇÃO",
           "dataAdmissao": "01/01/2021",
-          "proventos": 3320.39,
+          "proventos": 4427.07,
           "descontos": 287.03,
-          "totalLiquido": 3033.36,
+          "totalLiquido": 4140.04,
           "departamento": "GABINETE DO PREFEITO",
           "tipoDeVinculo": "Comissionado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1241,13 +1268,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1239,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1669,
           "cpf": "xxx.564.271-xx",
           "nome": "CHRISLENY NAYARA GUEDES DE SOUZA OLIVEIRA",
@@ -1260,7 +1287,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1268,13 +1295,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1669,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1667,
           "cpf": "xxx.325.221-xx",
           "nome": "CHRISTIANA GUEDES DE SOUZA OLIVEIRA",
@@ -1287,7 +1314,7 @@
           "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1295,13 +1322,13 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1667,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         },
         {
-          "mesAno": "09/2026",
+          "mesAno": "10/2026",
           "matricula": 1773,
           "cpf": "xxx.038.781-xx",
           "nome": "CLAERYSTON RAMOS SOARES",
@@ -1314,7 +1341,7 @@
           "tipoDeVinculo": "Concursado",
           "cargaHoraria": 200,
           "situacao": "Ativo",
-          "mes": "09",
+          "mes": "10",
           "ano": 2026,
           "situacaoPagamento": "PAGO",
           "chave": {
@@ -1322,42 +1349,15 @@
             "tamanhoDaPagina": 5,
             "ordenacao": {},
             "matricula": 1773,
-            "mes": "09",
+            "mes": "10",
             "ano": 2026,
-            "mesInteger": 9
-          }
-        },
-        {
-          "mesAno": "09/2026",
-          "matricula": 1803,
-          "cpf": "xxx.941.961-xx",
-          "nome": "CLAUDIA CRISTIANE GOMES DE ARAUJO",
-          "cargo": "PROFESSOR",
-          "dataAdmissao": "03/08/2026",
-          "proventos": 3992.88,
-          "descontos": 367.73,
-          "totalLiquido": 3625.15,
-          "departamento": "FUNDEB 70%",
-          "tipoDeVinculo": "Tempo determinado/Processo seletivo simplificado",
-          "cargaHoraria": 150,
-          "situacao": "Ativo",
-          "mes": "09",
-          "ano": 2026,
-          "situacaoPagamento": "PAGO",
-          "chave": {
-            "pagina": 1,
-            "tamanhoDaPagina": 5,
-            "ordenacao": {},
-            "matricula": 1803,
-            "mes": "09",
-            "ano": 2026,
-            "mesInteger": 9
+            "mesInteger": 10
           }
         }
       ],
       "paginaAtual": 1,
       "ano": "2026",
-      "mes": "09"
+      "mes": "10"
     },
     "contratos": {
       "dados": [
@@ -2068,7 +2068,7 @@
           "valor": "378.500,00",
           "numero": "023",
           "ano": 2026,
-          "situacao": "Em Vencimento",
+          "situacao": "Encerrado",
           "data_publicacao": "22/07/2026",
           "data_firmatura": "22/07/2026",
           "inicio_vigencia": "22/07/2026",
