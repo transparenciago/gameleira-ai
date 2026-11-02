@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-31T16:26:04.635640+00:00",
+  "atualizado_em": "2026-11-02T20:57:26.788868+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 14,
@@ -4287,7 +4287,7 @@
           "chave": {
             "codigoDaReceita": 34,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 11
           },
           "orgaoUnidadeGestora": "CAMARA MUNICIPAL DE GAMELEIRA DE GOIAS",
@@ -4304,7 +4304,7 @@
           "chave": {
             "codigoDaReceita": -1,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 11
           },
           "orgaoUnidadeGestora": "CAMARA MUNICIPAL DE GAMELEIRA DE GOIAS",
@@ -4320,7 +4320,7 @@
       ],
       "paginaAtual": 1,
       "ano": "2026",
-      "mes": "10"
+      "mes": "11"
     }
   }
 }

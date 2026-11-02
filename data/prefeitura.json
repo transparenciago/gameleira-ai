@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-31T16:26:11.095240+00:00",
+  "atualizado_em": "2026-11-02T20:57:31.660536+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 347,
@@ -1604,7 +1604,7 @@
           "valor": "59.980,00",
           "numero": "038",
           "ano": 2026,
-          "situacao": "Em Vencimento",
+          "situacao": "Encerrado",
           "data_publicacao": "16/09/2026",
           "data_firmatura": "16/09/2026",
           "inicio_vigencia": "16/09/2026",
@@ -4309,7 +4309,7 @@
           "chave": {
             "codigoDaReceita": 3540,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4326,7 +4326,7 @@
           "chave": {
             "codigoDaReceita": 3602,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4343,7 +4343,7 @@
           "chave": {
             "codigoDaReceita": 3574,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4360,7 +4360,7 @@
           "chave": {
             "codigoDaReceita": 3636,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4377,7 +4377,7 @@
           "chave": {
             "codigoDaReceita": 3530,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4394,7 +4394,7 @@
           "chave": {
             "codigoDaReceita": 3563,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4411,7 +4411,7 @@
           "chave": {
             "codigoDaReceita": 3543,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4428,7 +4428,7 @@
           "chave": {
             "codigoDaReceita": 3607,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4445,7 +4445,7 @@
           "chave": {
             "codigoDaReceita": 3513,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4462,7 +4462,7 @@
           "chave": {
             "codigoDaReceita": 3544,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4479,7 +4479,7 @@
           "chave": {
             "codigoDaReceita": 3568,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4496,7 +4496,7 @@
           "chave": {
             "codigoDaReceita": 3598,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4513,7 +4513,7 @@
           "chave": {
             "codigoDaReceita": 3551,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4530,7 +4530,7 @@
           "chave": {
             "codigoDaReceita": 3649,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4547,7 +4547,7 @@
           "chave": {
             "codigoDaReceita": 3596,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4564,7 +4564,7 @@
           "chave": {
             "codigoDaReceita": 3560,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4581,7 +4581,7 @@
           "chave": {
             "codigoDaReceita": 3609,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4598,7 +4598,7 @@
           "chave": {
             "codigoDaReceita": 3645,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4615,7 +4615,7 @@
           "chave": {
             "codigoDaReceita": 3546,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4632,7 +4632,7 @@
           "chave": {
             "codigoDaReceita": 3655,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4649,7 +4649,7 @@
           "chave": {
             "codigoDaReceita": 3517,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4666,7 +4666,7 @@
           "chave": {
             "codigoDaReceita": 3618,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4683,7 +4683,7 @@
           "chave": {
             "codigoDaReceita": 3553,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4700,7 +4700,7 @@
           "chave": {
             "codigoDaReceita": 3603,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4717,7 +4717,7 @@
           "chave": {
             "codigoDaReceita": 3573,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4734,7 +4734,7 @@
           "chave": {
             "codigoDaReceita": 3514,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4751,7 +4751,7 @@
           "chave": {
             "codigoDaReceita": 3622,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4768,7 +4768,7 @@
           "chave": {
             "codigoDaReceita": 3634,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4785,7 +4785,7 @@
           "chave": {
             "codigoDaReceita": 3662,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4802,7 +4802,7 @@
           "chave": {
             "codigoDaReceita": 3638,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4819,7 +4819,7 @@
           "chave": {
             "codigoDaReceita": 3621,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4836,7 +4836,7 @@
           "chave": {
             "codigoDaReceita": 3525,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4853,7 +4853,7 @@
           "chave": {
             "codigoDaReceita": 3565,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4870,7 +4870,7 @@
           "chave": {
             "codigoDaReceita": 3529,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4887,7 +4887,7 @@
           "chave": {
             "codigoDaReceita": 3628,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4904,7 +4904,7 @@
           "chave": {
             "codigoDaReceita": 3515,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4921,7 +4921,7 @@
           "chave": {
             "codigoDaReceita": 3580,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4938,7 +4938,7 @@
           "chave": {
             "codigoDaReceita": 3516,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4955,7 +4955,7 @@
           "chave": {
             "codigoDaReceita": 3661,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4972,7 +4972,7 @@
           "chave": {
             "codigoDaReceita": 3643,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -4989,7 +4989,7 @@
           "chave": {
             "codigoDaReceita": 3537,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5006,7 +5006,7 @@
           "chave": {
             "codigoDaReceita": 3646,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5023,7 +5023,7 @@
           "chave": {
             "codigoDaReceita": 3879,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5040,7 +5040,7 @@
           "chave": {
             "codigoDaReceita": 3880,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5057,7 +5057,7 @@
           "chave": {
             "codigoDaReceita": 3873,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5074,7 +5074,7 @@
           "chave": {
             "codigoDaReceita": 3874,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 36
           },
           "orgaoUnidadeGestora": "REGIME PROP.PREV. SOCIAL GAMELEIRA-PREV",
@@ -5091,7 +5091,7 @@
           "chave": {
             "codigoDaReceita": 3507,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5108,7 +5108,7 @@
           "chave": {
             "codigoDaReceita": 3575,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5125,7 +5125,7 @@
           "chave": {
             "codigoDaReceita": 3629,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5142,7 +5142,7 @@
           "chave": {
             "codigoDaReceita": 3558,
             "ano": 2026,
-            "mes": "10",
+            "mes": "11",
             "codigoDoOrgao": 22
           },
           "orgaoUnidadeGestora": "PREFEITURA MUNICIPAL GAMELEIRA DE GOIAS",
@@ -5158,7 +5158,7 @@
       ],
       "paginaAtual": 1,
       "ano": "2026",
-      "mes": "10"
+      "mes": "11"
     },
     "licitacoes": [
       {
