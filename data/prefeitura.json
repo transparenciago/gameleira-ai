@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T19:15:48.008763+00:00",
+  "atualizado_em": "2026-11-13T18:52:27.293235+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 347,
@@ -2812,7 +2812,7 @@
           "anexos": []
         }
       ],
-      "total": 639,
+      "total": 640,
       "ano": null,
       "sg_contratos_ocultar_alertas": 0
     },
