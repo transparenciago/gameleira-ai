@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T18:05:48.858780+00:00",
+  "atualizado_em": "2026-11-16T21:21:42.855237+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 347,
@@ -2282,8 +2282,8 @@
           "objeto": "CONTRATO ADMINISTRATIVO Nº022/2026.",
           "fiscal_contrato": "MARIA IONE FERREIRA RIBEIRO",
           "periodo": "3 meses e 10 dias",
-          "valor_executado": null,
-          "saldo": "78.680,00",
+          "valor_executado": "78.680,00",
+          "saldo": null,
           "local_da_execucao": null,
           "numero_colare": null,
           "data_colare": null,
@@ -4999,7 +4999,7 @@
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 1112235.6,
           "arrecadacao": 0,
-          "valorAcumulado": 1004749.35,
+          "valorAcumulado": 1117760.46,
           "ano": 2026
         },
         {
@@ -5016,7 +5016,7 @@
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 480950.4,
           "arrecadacao": 0,
-          "valorAcumulado": 1839247.82,
+          "valorAcumulado": 2065270.04,
           "ano": 2026
         },
         {
@@ -5050,7 +5050,7 @@
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 0,
           "arrecadacao": 0,
-          "valorAcumulado": 32751.36,
+          "valorAcumulado": 49053.77,
           "ano": 2026
         },
         {
