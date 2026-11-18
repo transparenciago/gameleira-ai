@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T20:09:34.398563+00:00",
+  "atualizado_em": "2026-11-18T19:41:23.263220+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 347,
@@ -4642,7 +4642,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 168016.8,
           "arrecadacao": 0,
-          "valorAcumulado": 512440.54,
+          "valorAcumulado": 593926.37,
           "ano": 2026
         },
         {
@@ -4659,7 +4659,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 62143.2,
           "arrecadacao": 0,
-          "valorAcumulado": 128110.16,
+          "valorAcumulado": 148481.61,
           "ano": 2026
         },
         {
@@ -4676,7 +4676,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 138096.01,
           "arrecadacao": 0,
-          "valorAcumulado": 213516.91,
+          "valorAcumulado": 247469.35,
           "ano": 2026
         },
         {
@@ -4744,7 +4744,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 142407.93,
           "arrecadacao": 0,
-          "valorAcumulado": 259903.39,
+          "valorAcumulado": 294617.46,
           "ano": 2026
         },
         {
@@ -4761,7 +4761,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 35601.98,
           "arrecadacao": 0,
-          "valorAcumulado": 64975.84,
+          "valorAcumulado": 73654.35,
           "ano": 2026
         },
         {
@@ -4778,7 +4778,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 59336.63,
           "arrecadacao": 0,
-          "valorAcumulado": 108293.08,
+          "valorAcumulado": 122757.27,
           "ano": 2026
         },
         {
@@ -4914,7 +4914,7 @@
           "origemDoRecurso": "Rendas Locais do Municipio",
           "valorOrcado": 132568.53,
           "arrecadacao": 0,
-          "valorAcumulado": 379775.01,
+          "valorAcumulado": 403070.2,
           "ano": 2026
         },
         {
@@ -5033,7 +5033,7 @@
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 1112235.6,
           "arrecadacao": 0,
-          "valorAcumulado": 1117760.46,
+          "valorAcumulado": 1176147.28,
           "ano": 2026
         },
         {
@@ -5173,12 +5173,12 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 11:11:18",
+        "atualizado_em": "2026-11-17 16:33:05",
         "data_inicio": "2026-09-01",
         "data_final": null,
         "total": "6",
-        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 27 de Outubro de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 27 de Outubro de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 17 de Novembro de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de ADESÃO À ATA DE REGISTRO DE PREÇOS, no período de 01 de Setembro de 2026 até 17 de Novembro de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "29",
@@ -5192,12 +5192,12 @@
         "data_assinatura": "2026-04-08 13:12:40",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 16:01:46",
+        "atualizado_em": "2026-11-17 16:04:24",
         "data_inicio": "2026-02-21",
         "data_final": null,
         "total": "6",
-        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 27 de Outubro de 2026. <u>Conferir Declaração.</u></strong>",
-        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 27 de Outubro de 2026. <u>Conferir Declaração.</u></strong>"
+        "descricao": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 17 de Novembro de 2026. <u>Conferir Declaração.</u></strong>",
+        "descricao_mobile": "<strong>Não realização de INEXIGIBILIDADE DE LICITAÇÃO, no período de 21 de Fevereiro de 2026 até 17 de Novembro de 2026. <u>Conferir Declaração.</u></strong>"
       },
       {
         "id": "25",
@@ -5211,7 +5211,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 11:11:18",
+        "atualizado_em": "2026-11-17 16:33:05",
         "data_inicio": "2025-06-01",
         "data_final": "2026-06-30",
         "total": "6",
@@ -5230,7 +5230,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 11:11:18",
+        "atualizado_em": "2026-11-17 16:33:05",
         "data_inicio": "2025-01-01",
         "data_final": "2025-04-30",
         "total": "6",
@@ -5249,7 +5249,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 11:11:18",
+        "atualizado_em": "2026-11-17 16:33:05",
         "data_inicio": "2024-01-01",
         "data_final": "2024-12-31",
         "total": "6",
@@ -5268,7 +5268,7 @@
         "data_assinatura": "2025-06-19 09:08:14",
         "lembretes": "0",
         "ocultar_modalidades": "0",
-        "atualizado_em": "2026-10-27 11:11:18",
+        "atualizado_em": "2026-11-17 16:33:05",
         "data_inicio": "2022-01-01",
         "data_final": "2022-12-31",
         "total": "6",
