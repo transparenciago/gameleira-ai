@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-22T18:46:22.659996+00:00",
+  "atualizado_em": "2026-11-23T22:59:17.688462+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 14,
@@ -65,6 +65,7 @@
           "nome": "HUDSON RODRIGUES DE MORAIS",
           "cargo": "Vereador",
           "dataAdmissao": "01/01/2025",
+          "dataExoneracao": "18/11/2026",
           "proventos": 6954.93,
           "descontos": 2666.42,
           "totalLiquido": 4288.51,
@@ -227,6 +228,7 @@
           "nome": "MAURICIO DE PAULA CARVALHO",
           "cargo": "Vereador",
           "dataAdmissao": "01/01/2025",
+          "dataExoneracao": "18/11/2026",
           "proventos": 6954.93,
           "descontos": 1513.28,
           "totalLiquido": 5441.65,
