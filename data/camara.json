@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-25T20:46:37.801447+00:00",
+  "atualizado_em": "2026-11-26T20:38:49.958096+00:00",
   "dados": {
     "folha_pagamento": {
       "total": 14,
@@ -4357,8 +4357,8 @@
           "naturezaDaReceita": "9999.99.99.99 - TRANSFERÊNCIAS RECEBIDAS",
           "origemDoRecurso": "Outras Fontes de Recursos",
           "valorOrcado": 2284614.72,
-          "arrecadacao": 0,
-          "valorAcumulado": 1903845.6,
+          "arrecadacao": 190384.56,
+          "valorAcumulado": 2094230.16,
           "ano": 2026
         }
       ],
